@@ -1,6 +1,6 @@
 # 🗺️ Mapty
 
-A Map application made with JavaScript to store workouts.
+A workout tracker application using real-time map rendering by using the leaflet API. Built with HTML, CSS and vanilla JavaScript.
 
 ## Deployment
 
